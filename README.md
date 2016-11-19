@@ -4,7 +4,7 @@ This is a demo written in C++. It is written to implement adaptive short-term en
 
 To give an intuitive explanation, the picture below is given, showing how the demo performs when it operates.
 
-![Img1](PD_1.png)
+![Img1](https://cloud.githubusercontent.com/assets/20698170/20455813/ec01e4d8-ae9f-11e6-8fe6-e58c2bcfd706.png)
 
 
 
